@@ -23,7 +23,7 @@
 @implementation ViewController
 
 - (void)viewDidLoad {
-    //[self postRequest];
+    [self postRequest];
     [super viewDidLoad];
     [self.UITableView reloadData];
    
